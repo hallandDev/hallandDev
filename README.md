@@ -7,9 +7,8 @@ Sempre buscando aprender, evoluir e aplicar soluções inteligentes no dia a dia
 ---
 
 #### 🚀 Tecnologias que tenho interesse:
-- **Linguagens:** JavaScript, Python, Java
+- **Linguagens:** Python
 - **Automação:** Selenium, n8n, RPA
-- **Web:** HTML, CSS, React, Node.js
 - **Banco de Dados:** MySQL, PostgreSQL
 - **Outros:** Git, GitHub, APIs REST, Docker
 
@@ -22,6 +21,6 @@ Sempre buscando aprender, evoluir e aplicar soluções inteligentes no dia a dia
 
 #### 🌐 Conecte-se comigo:
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- 📧 pedrohenrique@email.com *(coloque seu e-mail se desejar)*
+- 📧 ph1351678@gmail.com
 
 ---
