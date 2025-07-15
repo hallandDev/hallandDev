@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá! Eu sou o Pedro 👋
 
-<!--
-**hallandDev/hallandDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software**, tenho 19 anos e sou natural de **Manaus-AM**.  
+Apaixonado por **tecnologia**, adoro criar **automações** que otimizam processos, facilitam tarefas e reduzem custos.  
+Sempre buscando aprender, evoluir e aplicar soluções inteligentes no dia a dia!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Tecnologias que tenho interesse:
+- **Linguagens:** JavaScript, Python, Java
+- **Automação:** Selenium, n8n, RPA
+- **Web:** HTML, CSS, React, Node.js
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Outros:** Git, GitHub, APIs REST, Docker
+
+---
+
+#### 📈 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hallandDev&show_icons=true&theme=radical)
+
+---
+
+#### 🌐 Conecte-se comigo:
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- 📧 pedrohenrique@email.com *(coloque seu e-mail se desejar)*
+
+---
